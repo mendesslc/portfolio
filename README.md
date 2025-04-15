@@ -49,4 +49,4 @@
 
 ### 📝 Conclusão:
 
-> Meu projeto é um **site de portfólio pessoal moderno**, com foco em design limpo e responsivo. Ele permite que visitantes:
+> Meu projeto é um **site de portfólio pessoal moderno**, com foco em design limpo e responsivo.
